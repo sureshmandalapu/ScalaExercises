@@ -20,5 +20,4 @@ object VarAndVal extends App {
 
   //we always prefer val instead of var - to promote immutability
 
-
 }
