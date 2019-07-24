@@ -41,6 +41,7 @@ object FoldAndReduce extends App {
   //find sum of lengths of all these strings from the List
 
   def accLen(x: Int, y: String) = x + y.length
+
   val sumOfLengths = strings.foldLeft(0)(accLen)
   println("sumOfLengths using foldLeft is " + sumOfLengths)
 
