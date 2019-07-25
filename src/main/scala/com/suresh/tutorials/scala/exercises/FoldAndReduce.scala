@@ -1,4 +1,4 @@
-package com.suresh.tutorials.scala.functional
+package com.suresh.tutorials.scala.exercises
 
 object FoldAndReduce extends App {
 
