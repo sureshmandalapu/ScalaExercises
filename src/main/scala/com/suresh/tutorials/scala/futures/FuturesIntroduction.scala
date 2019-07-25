@@ -55,6 +55,4 @@ object FuturesIntroduction extends App {
 
   Thread.sleep(10000)
 
-  Future[String]
-  Future[Either[String, String]]
 }
