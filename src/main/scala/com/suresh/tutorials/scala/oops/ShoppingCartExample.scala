@@ -57,6 +57,5 @@ object ShoppingCartExample extends App {
 
   println(s"Total is ${cart.getTotal()}")
 
-
 }
 
