@@ -1,7 +1,5 @@
 package com.suresh.tutorials.scala.functional
 
-import com.suresh.tutorials.scala.functional.Currying.createHtml
-
 object Currying extends App {
 
   //Currying is a means of transforming a function that takes more than one argument
@@ -73,4 +71,5 @@ object Currying extends App {
 
   val finalProductPriceV2 = serviceChargeAppliedV2(120)
   println(finalProductPriceV2)
+
 }
