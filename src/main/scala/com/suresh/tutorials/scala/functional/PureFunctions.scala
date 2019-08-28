@@ -78,5 +78,4 @@ object PureFunctions extends App {
     //
 fun4(2, 3) //this call can be replaced by result
 
-
 }
